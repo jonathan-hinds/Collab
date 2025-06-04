@@ -1,0 +1,22 @@
+# Ignore compiled and temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.log
+
+# Ignore user-specific configs
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditorSettings.ini
+
+# Optional: Skip heavy content (comment these out if you want them in Git)
+# Content/StarterContent/
+# Content/Megascans/
